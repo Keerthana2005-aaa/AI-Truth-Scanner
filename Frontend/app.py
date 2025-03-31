@@ -8,7 +8,7 @@ import wavio
 import threading
 import speech_recognition as sr
 
-# -------------------- CONFIGURATION --------------------
+# -------------------- CONFIGURATION  --------------------
 # Flask API URL
 FLASK_API_URL = "http://localhost:5000"
 
