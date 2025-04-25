@@ -14,7 +14,7 @@ import time
 app = Flask(__name__)
 
 # -------------------- CONFIGURATION --------------------
-GOOGLE_API_KEY = "AIzaSyC1Fukgs4jSEvC7A32SUmfLFr1y689EvtE"  # Replace with your actual Google API key
+GOOGLE_API_KEY = "x-x-x"  # Replace with your actual Google API key
 genai.configure(api_key=GOOGLE_API_KEY)
 model = genai.GenerativeModel('gemini-1.5-pro')
 
