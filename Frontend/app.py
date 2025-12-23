@@ -9,7 +9,7 @@ import cv2
 import streamlit.components.v1 as components
 
 # Flask API URL
-API_URL = "http://localhost:5000"
+API_URL = " add your systen api "
 
 # -------------------- SESSION STATE --------------------
 if "recording_audio" not in st.session_state:
