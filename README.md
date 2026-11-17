@@ -123,11 +123,8 @@ The application uses SQLite to store analysis results. The database file is name
 ### **Project Contributors**
 
 - Anusha G E - Lead Developer 
-- Kashif - UI Designer 
 - Keerthana H - PPT Designer and Feedback 
-- Prajwal - UI and Report 
-- Ayush Kumar - Tester 
-- Reetish Kulkarni - Documenter
+
 
 ### **Contributing**
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
