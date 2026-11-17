@@ -122,9 +122,8 @@ The application uses SQLite to store analysis results. The database file is name
 
 ### **Project Contributors**
 
-- Anusha G E - Lead Developer 
-- Keerthana H - PPT Designer and Feedback 
-
+- Anusha G E  
+- Keerthana H 
 
 ### **Contributing**
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
